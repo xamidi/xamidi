@@ -1,6 +1,6 @@
 Welcome! 👋
 
-I am Samiro, a German mathematician in theoretical computer science working mostly independently on deontic logic and proof theory, currently focussing on proof minimization in Hilbert systems. I studied and graduated in computer science at [RWTH Aachen University](https://www.rwth-aachen.de), which now supports [some](https://xamidi.github.io/pmGenerator/) of my work in the form of computing time projects. Unfortunately, none of its employees seem to be sharing my research interests. This lack of academic diversity affects me as an issue of academia at a larger scale.
+I am Samiro, a German mathematician in theoretical computer science working mostly independently on deontic logic and proof theory, currently focussing on proof minimization in Hilbert systems. I studied and graduated in computer science at [RWTH Aachen University](https://www.rwth-aachen.de), which now supports [some](https://xamidi.github.io/pmGenerator/) of my work in the form of computing time projects.
 
 - 🔭 Do you see the beauty in Hilbert systems? Then you might want to join my [proof minimization challenge](https://github.com/xamidi/pmGenerator/discussions/2)! ✨
 - 👯 I am involved with Metamath's [mmsolitaire](https://us.metamath.org/mmsolitaire/mms.html) project and its [shortest known proofs database](https://us.metamath.org/mmsolitaire/pmproofs.txt).
