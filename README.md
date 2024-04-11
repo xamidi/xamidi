@@ -1,4 +1,4 @@
-Welcome! 👋
+Welcome! 👋 <img src="https://komarev.com/ghpvc/?username=xamidi&color=ff0000" width="0" height="0"/>
 
 I am Samiro, a German mathematician in theoretical computer science working mostly independently on deontic logic and proof theory, currently focussing on proof minimization in Hilbert systems. I studied and graduated in computer science at [RWTH Aachen University](https://www.rwth-aachen.de), which now supports [some](https://xamidi.github.io/pmGenerator/) of my work in the form of computing time projects.
 
