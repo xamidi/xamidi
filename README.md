@@ -7,6 +7,7 @@ I am Samiro, a German mathematician in theoretical computer science working most
 - 💫 I am enthusiastic about modern and well-written C++, especially in the context of high-performance computing.
 - 💬 Feel free to [contact me](https://github.com/xamidi/pmGenerator/discussions/1) about any of my interests mentioned here.
 - 🚫 I do not jump on hype trains for languages that compromise freedom, beauty and productivity for safety.
+- 🔥 Some scammers are attempting to defame me, angered by things like [this repository](https://github.com/xamidi/github-followership-scammers). For example, u/xamidi on Reddit is *not* my account. All claims that I would engage in irrational behavior like femboyism, wokism or pro-war activism should be considered lies.
 - 🤔 Having Asperger's syndrome, I am neither flexible in my interests, nor willing to compromise my areas of work for money, prestige, or a career. So until I find people with similar interests, I will keep working on my own projects in solitude.
 
 <p align="center">
