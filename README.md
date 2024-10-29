@@ -11,7 +11,7 @@ I am Samiro, a German mathematician in theoretical computer science working most
 - 🤔 Having Asperger's syndrome, I am neither flexible in my interests, nor willing to compromise my areas of work for money, prestige, or a career. So until I find people with similar interests, I will keep working on my own projects in solitude.
 
 <p align="center">
-<a href="https://github.com/xamidi/github-stats-combinator"><img width="776" height="352" alt="[xamidi's GitHub stats - refresh to load image]" src="https://github-stats-combinator.vercel.app/api?stats=username%3Dxamidi%26show_icons%3Dtrue%26theme%3Dradical%26include_all_commits%3Dfalse%26hide_border%3Dtrue&languages=username%3Dxamidi%26layout%3Ddonut-vertical%26theme%3Dradical%26langs_count%3D4%26hide_border%3Dtrue&trophies=username%3Dxamidi%26theme%3Dradical%26column%3D3%26margin-w%3D9%26margin-h%3D9%26title%3DMultiLanguage%2CLongTimeUser%2CCommits" /></a>
+<a href="https://github.com/xamidi/github-stats-combinator"><img width="776" height="352" alt="[xamidi's GitHub stats - refresh to load image]" src="https://github-stats-combinator.vercel.app/api?stats=username%3Dxamidi%26show_icons%3Dtrue%26theme%3Dradical%26include_all_commits%3Dfalse%26hide_border%3Dtrue&languages=username%3Dxamidi%26layout%3Ddonut-vertical%26theme%3Dradical%26langs_count%3D4%26hide_border%3Dtrue&trophies=username%3Dxamidi%26theme%3Dradical%26column%3D3%26margin-w%3D9%26margin-h%3D9%26title%3DLongTimeUser%2CExperience%2CCommits" /></a>
 </p>
 
 <!--
